@@ -1,0 +1,21 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "case.test_3",
+    "children" : [ {
+      "name" : "TestAddOrg.test_addOrg",
+      "uid" : "47c40b2c4c101d00",
+      "parentUid" : "c208737b996c26327b45efdad343290a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1561433390856,
+        "stop" : 1561433468541,
+        "duration" : 77685
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "case.test_3"
+  } ]
+}

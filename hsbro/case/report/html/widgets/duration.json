@@ -1,0 +1,11 @@
+[ {
+  "uid" : "47c40b2c4c101d00",
+  "name" : "TestAddOrg.test_addOrg",
+  "time" : {
+    "start" : 1561433390856,
+    "stop" : 1561433468541,
+    "duration" : 77685
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

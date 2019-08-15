@@ -1,0 +1,21 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "case.test_3",
+    "children" : [ {
+      "name" : "TestAddOrg.test_addOrg",
+      "uid" : "47c40b2c4c101d00",
+      "parentUid" : "4c0ebff1b379b4eb720793c126f98124",
+      "status" : "passed",
+      "time" : {
+        "start" : 1561433390856,
+        "stop" : 1561433468541,
+        "duration" : 77685
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "4c0ebff1b379b4eb720793c126f98124"
+  } ]
+}

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../.idea/Python35.iml" filepath="$PROJECT_DIR$/../.idea/Python35.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../hsBroTest/.idea/hsBroTest.iml" filepath="$PROJECT_DIR$/../hsBroTest/.idea/hsBroTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/hsbro.iml" filepath="$PROJECT_DIR$/.idea/hsbro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../hsbro_port/.idea/hsbro_port.iml" filepath="$PROJECT_DIR$/../hsbro_port/.idea/hsbro_port.iml" />
+      <module fileurl="file://D:/php_che66_api/.idea/php_che66_api.iml" filepath="D:/php_che66_api/.idea/php_che66_api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../yoyo/.idea/yoyo.iml" filepath="$PROJECT_DIR$/../yoyo/.idea/yoyo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../yoyo_jiekou/.idea/yoyo_jiekou.iml" filepath="$PROJECT_DIR$/../yoyo_jiekou/.idea/yoyo_jiekou.iml" />
+      <module fileurl="file://D:/yoyotest/.idea/yoyotest.iml" filepath="D:/yoyotest/.idea/yoyotest.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,25 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-IK50NUD",
+    "children" : [ {
+      "name" : "7972-MainThread",
+      "children" : [ {
+        "name" : "TestAddOrg.test_addOrg",
+        "uid" : "47c40b2c4c101d00",
+        "parentUid" : "a15111685df26cc690109a6b17360c32",
+        "status" : "passed",
+        "time" : {
+          "start" : 1561433390856,
+          "stop" : 1561433468541,
+          "duration" : 77685
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "a15111685df26cc690109a6b17360c32"
+    } ],
+    "uid" : "75b0d8716c762c225939af6ab6431c27"
+  } ]
+}
